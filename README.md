@@ -12,10 +12,10 @@ t-SNE plot
 
 **Algorithms**:  
 Hierarchical Clustering (complete linkage and average linkage)  
-k-means 
-Fuzzy c-means
+k-means  
+Fuzzy c-means  
 
-**Evaluation**:
+**Evaluation**:  
 Silhouette plot  
 Boxplot
 
