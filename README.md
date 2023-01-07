@@ -1,5 +1,5 @@
 # UnsupervisedLearning
-*This is an unsupervised learning project written by Python Notebook. The main purpose is to help manufacturing companies, such as Nike and Tesla, find suitable cities to build factories.* 
+*This is an unsupervised learning project with Python Notebook. The main purpose is to help manufacturing companies, such as Nike and Tesla, find suitable cities to build factories.* 
 
 ## Raw Data:
 Dataset: Movehub City Rankings 
